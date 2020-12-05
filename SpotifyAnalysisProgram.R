@@ -1,4 +1,4 @@
-# install all the packages and their dependencies 
+# Install all the packages and their dependencies 
 library(dplyr) 
 library(ggplot2) 
 library(plotly)
